@@ -43,3 +43,14 @@ The objective is to understand relationships between financial indicators and st
 
 ## How to Run
 1. Install required libraries:
+pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
+2. Run the Python script:
+python financial_market_analysis.py
+
+
+## Notes
+This project is for academic and educational purposes. Financial predictions are subject to uncertainty and should not be used as direct investment advice.
+
+## Author
+Developed as part of a machine learning and data analytics academic project.
+
